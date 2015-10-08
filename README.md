@@ -13,8 +13,8 @@ http://stackoverflow.com/help/accepted-answer)`
 * How should I deal with “package 'xxx' is not available (for R version x.y.z)” warning?   
 `[How should I deal with “package 'xxx' is not available (for R version x.y.z)” warning?](http://stackoverflow.com/questions/25721884/how-should-i-deal-with-package-xxx-is-not-available-for-r-version-x-y-z-wa)`
 
-* How to join (merge) data frames (inner, outer, left, right)?
+* How to join (merge) data frames (inner, outer, left, right)?  
 `[How to join (merge) data frames (inner, outer, left, right)?](http://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right)
 
-* R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate
+* R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate  
 `[R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate](http://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega)
