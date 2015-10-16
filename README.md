@@ -17,4 +17,4 @@ http://stackoverflow.com/help/accepted-answer)`
 `[How to join (merge) data frames (inner, outer, left, right)?](http://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right)`
 
 * R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate  
-`[R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate](http://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega)`
+`[R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate](http://stackoverflow.com/questions/3505701/r-grouping-functions-sapply-vs-lapply-vs-apply-vs-tapply-vs-by-vs-aggrega)`, `[Aggregate multiple variables simultaneously](http://stackoverflow.com/questions/9723208/aggregate-multiple-variables-simultaneously)`
