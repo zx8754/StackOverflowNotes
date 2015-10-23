@@ -1,6 +1,6 @@
 # StackOverflowNotes
 
-## Comments
+### Comments
 
 * How to make a great R reproducible example  
 `[How to make a great R reproducible example?](http://stackoverflow.com/questions/5963269)`
@@ -21,5 +21,5 @@ http://stackoverflow.com/help/accepted-answer)`
 * R Grouping functions:   
 `[R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate](http://stackoverflow.com/questions/3505701)`, `[Aggregate multiple variables simultaneously](http://stackoverflow.com/questions/9723208)`, `[How to sum a variable by group?](http://stackoverflow.com/q/1660124)`
 
-## SE Extensions
+### SE Extensions
 * [SE-AutoReview Comments](https://github.com/Benjol/SE-AutoReviewComments)
