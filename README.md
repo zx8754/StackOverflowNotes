@@ -21,7 +21,7 @@ http://stackoverflow.com/help/accepted-answer)`
 * R Grouping functions:   
 `[R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate](http://stackoverflow.com/questions/3505701)`, `[Aggregate multiple variables simultaneously](http://stackoverflow.com/questions/9723208)`, `[How to sum a variable by group?](http://stackoverflow.com/q/1660124)`
 
-* Reshape:
+* Reshape:  
 `[Reshape data from long to wide format R](http://stackoverflow.com/questions/5890584)`
 
 * New user  
