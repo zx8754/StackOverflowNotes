@@ -21,6 +21,9 @@ http://stackoverflow.com/help/accepted-answer)`
 * R Grouping functions:   
 `[R Grouping functions: sapply vs. lapply vs. apply. vs. tapply vs. by vs. aggregate](http://stackoverflow.com/questions/3505701)`, `[Aggregate multiple variables simultaneously](http://stackoverflow.com/questions/9723208)`, `[How to sum a variable by group?](http://stackoverflow.com/q/1660124)`
 
+* Reshape:
+`[Reshape data from long to wide format R](http://stackoverflow.com/questions/5890584)`
+
 * New user  
 `Welcome to StackOverflow! Please read the info about [how to ask a good question](http://stackoverflow.com/help/how-to-ask) and how to give a [reproducible example](http://stackoverflow.com/questions/5963269). This will make it much easier for others to help you.`
 
