@@ -27,5 +27,8 @@ http://stackoverflow.com/help/accepted-answer)`
 * New user  
 `Welcome to StackOverflow! Please read the info about [how to ask a good question](http://stackoverflow.com/help/how-to-ask) and how to give a [reproducible example](http://stackoverflow.com/questions/5963269). This will make it much easier for others to help you.`
 
+### Comment formatting   
+http://stackoverflow.com/editing-help#comment-formatting
+
 ### SE Extensions
 * [SE-AutoReview Comments](https://github.com/Benjol/SE-AutoReviewComments)
