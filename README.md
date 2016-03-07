@@ -25,7 +25,8 @@ http://stackoverflow.com/help/accepted-answer)`
 `[roll join with start/end window](http://stackoverflow.com/questions/24480031)`
 
 * Reshape:  
-`[Reshape data from long to wide format R](http://stackoverflow.com/questions/5890584)`
+`[Reshape data from long to wide format](http://stackoverflow.com/questions/5890584)`   
+`[Reshape data from wide to long format](http://stackoverflow.com/questions/1181060)`
 
 * New user  
 `Welcome to StackOverflow! Please read the info about [how to ask a good question](http://stackoverflow.com/help/how-to-ask) and how to give a [reproducible example](http://stackoverflow.com/questions/5963269). This will make it much easier for others to help you.`
