@@ -36,3 +36,28 @@ http://stackoverflow.com/editing-help#comment-formatting
 
 ### SE Extensions
 * [SE-AutoReview Comments](https://github.com/Benjol/SE-AutoReviewComments)
+
+### Functions
+Author: [ananda-mahto](http://stackoverflow.com/users/1270695/ananda-mahto)
+
+```R
+# Author: ananda-mahto
+# http://chat.stackoverflow.com/transcript/message/11673110#11673110
+snarkments <- function(choice = "Reproduce and be merry") {
+  A <- c("Reproduce and be merry" = "Please provide a [minimal reproducible example](stackoverflow.com/questions/5963269/…), and please show us what you have tried",
+         "lmgtfy" = "I suppose you have [searched](meta.stackoverflow.com/help/how-to-ask) for your problem on SO?",
+         "catkiller!" = "Die!!! Die!!! Die!!!")
+  unname(A[choice])
+}
+```
+Usage:
+
+```R
+snarkments()
+# [1] "Please provide a [minimal reproducible example](stackoverflow.com/questions/5963269/…), and please show us what you have tried"
+snarkments("lmgtfy")
+# [1] "I suppose you have [searched](meta.stackoverflow.com/help/how-to-ask) for your problem on SO?"
+snarkments("catkiller!")
+# [1] "Die!!! Die!!! Die!!!"
+```
+
