@@ -38,10 +38,9 @@ http://stackoverflow.com/editing-help#comment-formatting
 * [SE-AutoReview Comments](https://github.com/Benjol/SE-AutoReviewComments)
 
 ### Functions
-Author: [ananda-mahto](http://stackoverflow.com/users/1270695/ananda-mahto)
 
 ```R
-# Author: ananda-mahto
+# Author: http://stackoverflow.com/users/1270695/ananda-mahto
 # http://chat.stackoverflow.com/transcript/message/11673110#11673110
 snarkments <- function(choice = "Reproduce and be merry") {
   A <- c("Reproduce and be merry" = "Please provide a [minimal reproducible example](stackoverflow.com/questions/5963269/…), and please show us what you have tried",
