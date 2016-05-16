@@ -28,6 +28,9 @@ http://stackoverflow.com/help/accepted-answer)`
 `[Reshape data from long to wide format](http://stackoverflow.com/questions/5890584)`   
 `[Reshape data from wide to long format](http://stackoverflow.com/questions/1181060)`
 
+* Floating points:   
+`[Why are these numbers not equal?](http://stackoverflow.com/questions/9508518)`
+
 * New user  
 `Welcome to StackOverflow! Please read the info about [how to ask a good question](http://stackoverflow.com/help/how-to-ask) and how to give a [reproducible example](http://stackoverflow.com/questions/5963269). This will make it much easier for others to help you.`
 
