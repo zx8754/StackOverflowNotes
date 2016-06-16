@@ -34,6 +34,12 @@ http://stackoverflow.com/help/accepted-answer)`
 * New user  
 `Welcome to StackOverflow! Please read the info about [how to ask a good question](http://stackoverflow.com/help/how-to-ask) and how to give a [reproducible example](http://stackoverflow.com/questions/5963269). This will make it much easier for others to help you.`
 
+* Duplicate FAQ   
+Please read the **FAQ** `[How should duplicate questions be handled?](http://meta.stackexchange.com/q/10841/)`: "It's a duplicate. What do I do?; If you have the privilege to vote to close, click the "close" button under the question, select “duplicate of...”, and paste a link to the duplicate question."; "Should I answer it?; **No**, not if you think it's a duplicate.".
+
+* Duplicate Wiki    		
+Please also read `[The Wikipedia of Long Tail Programming Questions](https://blog.stackoverflow.com/2011/01/the-wikipedia-of-long-tail-programming-questions/)`. "When you see a question that seems like it might reflect a common problem, don't just answer it to get a few points. That doesn't make the Internet any better. Instead, help us build up a library of canonical questions and answers that are more generic versions of the same question". Also, "**Don't answer questions that have already been answered elsewhere.** Yeah, you might earn a couple of points of reputation, but, because you are duplicating content, **you are actually making the internet worse**".
+
 ### Comment formatting   
 http://stackoverflow.com/editing-help#comment-formatting
 
