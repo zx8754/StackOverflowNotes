@@ -22,6 +22,7 @@
  - `[Group by X, Y, Z FUN()](http://stackoverflow.com/questions/9723208)`
  - `[Group by sum](http://stackoverflow.com/questions/1660124)`
  - `[Group by paste](http://stackoverflow.com/questions/15933958)`
+ - `[Group by X FUN_1() FUN_2() FUN_N()](http://stackoverflow.com/questions/12064202)`
 
 * roll join with start/end window  
 `[roll join with start/end window](http://stackoverflow.com/questions/24480031)`
