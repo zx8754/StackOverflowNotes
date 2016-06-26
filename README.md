@@ -14,6 +14,9 @@
 * How should I deal with “package 'xxx' is not available (for R version x.y.z)” warning?   
 `[How should I deal with “package 'xxx' is not available (for R version x.y.z)” warning?](http://stackoverflow.com/questions/25721884)`
 
+* Error: could not find function … in R
+`[Error: could not find function … in R](http://stackoverflow.com/questions/7027288)`
+
 * How to join (merge) data frames (inner, outer, left, right)?  
 `[How to join (merge) data frames (inner, outer, left, right)?](http://stackoverflow.com/questions/1299871)`
 
