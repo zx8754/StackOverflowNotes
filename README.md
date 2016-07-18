@@ -17,13 +17,11 @@
 * Error: could not find function … in R   
 `[Error: could not find function … in R](http://stackoverflow.com/questions/7027288)`
 
-* How to join (merge) data frames (inner, outer, left, right)?  
-`[How to join (merge) data frames (inner, outer, left, right)?](http://stackoverflow.com/questions/1299871)`
+* Joins:  
+ - `[How to join (merge) data frames (inner, outer, left, right)?](http://stackoverflow.com/questions/1299871)`
+ - `[roll join with start/end window](http://stackoverflow.com/questions/24480031)`
 
-* roll join with start/end window  
-`[roll join with start/end window](http://stackoverflow.com/questions/24480031)`
-
-* R Grouping functions:   
+* Grouping functions:   
  - `[apply family, by, aggregate](http://stackoverflow.com/questions/3505701)`
  - `[Group by X, Y, Z FUN()](http://stackoverflow.com/questions/9723208)`
  - `[Group by sum](http://stackoverflow.com/questions/1660124)`
@@ -38,7 +36,7 @@
 * Floating points:   
  - `[Why are these numbers not equal?](http://stackoverflow.com/questions/9508518)`
 
-* Dates:
+* Dates:  
  - `[Date difference in weeks, months, quarters, and years](http://stackoverflow.com/questions/14454476)`
 
 * New user  
