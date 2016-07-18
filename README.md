@@ -20,6 +20,9 @@
 * How to join (merge) data frames (inner, outer, left, right)?  
 `[How to join (merge) data frames (inner, outer, left, right)?](http://stackoverflow.com/questions/1299871)`
 
+* roll join with start/end window  
+`[roll join with start/end window](http://stackoverflow.com/questions/24480031)`
+
 * R Grouping functions:   
  - `[apply family, by, aggregate](http://stackoverflow.com/questions/3505701)`
  - `[Group by X, Y, Z FUN()](http://stackoverflow.com/questions/9723208)`
@@ -28,15 +31,15 @@
  - `[Group by X FUN_1() FUN_2() FUN_N()](http://stackoverflow.com/questions/12064202)`
  - `[Group by fill/collapse NAs](http://stackoverflow.com/questions/28509462)`
 
-* roll join with start/end window  
-`[roll join with start/end window](http://stackoverflow.com/questions/24480031)`
-
 * Reshape:  
  - `[Reshape data from long to wide format](http://stackoverflow.com/questions/5890584)`   
  - `[Reshape data from wide to long format](http://stackoverflow.com/questions/1181060)`
 
 * Floating points:   
  - `[Why are these numbers not equal?](http://stackoverflow.com/questions/9508518)`
+
+* Dates:
+ - `[Date difference in weeks, months, quarters, and years](http://stackoverflow.com/questions/14454476)`
 
 * New user  
  - `Welcome to StackOverflow! Please read the info about [how to ask a good question](http://stackoverflow.com/help/how-to-ask) and how to give a [reproducible example](http://stackoverflow.com/questions/5963269). This will make it much easier for others to help you.`
