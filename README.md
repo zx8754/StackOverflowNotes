@@ -34,6 +34,9 @@
  - `[Reshape data from long to wide format](http://stackoverflow.com/questions/5890584)`   
  - `[Reshape data from wide to long format](http://stackoverflow.com/questions/1181060)`
 
+* Sort/Order
+ - `[Sort a dataframe by column(s)?](http://stackoverflow.com/questions/1296646)`   
+
 * Floating points:   
  - `[Why are these numbers not equal?](http://stackoverflow.com/questions/9508518)`
 
