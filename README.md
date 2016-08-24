@@ -27,6 +27,7 @@
  - `[Group by X FUN_1() FUN_2() FUN_N()](http://stackoverflow.com/questions/12064202)`
  - `[Group by fill/collapse NAs](http://stackoverflow.com/questions/28509462)`
  - `[Group by count](http://stackoverflow.com/questions/9809166)`
+ - `[Group by top_n](http://stackoverflow.com/questions/27766054)`
 
 * Reshape:  
  - `[Reshape data from long to wide format](http://stackoverflow.com/questions/5890584)`   
