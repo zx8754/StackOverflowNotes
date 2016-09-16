@@ -32,7 +32,7 @@
 
 * Reshape:  
  - `[Reshape data from long to wide format](http://stackoverflow.com/questions/5890584)`   
- - `[Reshape data from wide to long format](http://stackoverflow.com/questions/1181060)`
+ - `[Reshape data from wide to long format](http://stackoverflow.com/questions/2185252)`
 
 * Sort/Order
  - `[Sort a dataframe by column(s)?](http://stackoverflow.com/questions/1296646)`   
