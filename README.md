@@ -72,3 +72,6 @@ snarkments("catkiller!")
 # [1] "Die!!! Die!!! Die!!!"
 ```
 
+### r-public Canonicals 
+- More resources at [r-public HammeR](https://github.com/r-public/HammeR/blob/master/Canonicals.md)
+
