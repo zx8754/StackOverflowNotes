@@ -45,7 +45,7 @@
  - `[Date difference in weeks, months, quarters, and years](http://stackoverflow.com/questions/14454476)`
 
 * Regex:
- - Learning Regular Expressions http://stackoverflow.com/questions/4736/learning-regular-expressions
+ - `[Learning Regular Expressions](http://stackoverflow.com/questions/4736)`
 
 ### Comment formatting   
 http://stackoverflow.com/editing-help#comment-formatting
