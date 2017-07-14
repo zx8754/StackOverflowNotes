@@ -16,6 +16,7 @@
 
 * Error
  - `[Error: could not find function … in R](http://stackoverflow.com/questions/7027288)`
+ - `[Syntax errors: mismatch {, if else, etc.](https://stackoverflow.com/questions/25889234)`
 
 * Joins:  
  - `[How to join (merge) data frames (inner, outer, left, right)?](http://stackoverflow.com/questions/1299871)`
