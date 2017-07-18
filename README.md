@@ -31,6 +31,7 @@
  - `[Group by fill/collapse NAs](http://stackoverflow.com/questions/28509462)`
  - `[Group by fill NAs](https://stackoverflow.com/questions/23340150)`
  - `[Group by count](http://stackoverflow.com/questions/9809166)`
+ - `[Group by distinct count](https://stackoverflow.com/questions/12840294)`
  - `[Group by top_n](http://stackoverflow.com/questions/27766054)`
 
 ### Reshape:  
