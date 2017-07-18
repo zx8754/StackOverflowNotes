@@ -29,6 +29,7 @@
  - `[Group by X, Y, Z FUN()](http://stackoverflow.com/questions/9723208)`
  - `[Group by X FUN_1() FUN_2() FUN_N()](http://stackoverflow.com/questions/12064202)`
  - `[Group by fill/collapse NAs](http://stackoverflow.com/questions/28509462)`
+ - `[Group by fill NAs](https://stackoverflow.com/questions/23340150)`
  - `[Group by count](http://stackoverflow.com/questions/9809166)`
  - `[Group by top_n](http://stackoverflow.com/questions/27766054)`
 
