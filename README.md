@@ -2,6 +2,7 @@
 
 ### Comments
  - `[How to make a great R reproducible example?](http://stackoverflow.com/questions/5963269)`
+ - For questions that are not `[on-topic](http://stackoverflow.com/help/on-topic)`, you might want to try in the `[R-Public chatroom](http://chat.stackoverflow.com/rooms/25312/r-public)`.
  - `[How to create a Minimal, Complete, and Verifiable example](http://stackoverflow.com/help/mcve)`
  - `[What does it mean when an answer is "accepted"?](http://stackoverflow.com/help/accepted-answer)`
  - Welcome to StackOverflow! Please read the info about `[how to ask a good question](http://stackoverflow.com/help/how-to-ask)` and how to give a `[reproducible example](http://stackoverflow.com/questions/5963269)`. This will make it much easier for others to help you. - [Jaap](http://stackoverflow.com/users/2204410)
