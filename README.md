@@ -48,6 +48,7 @@
 
 ### Floating points:   
  - `[Why are these numbers not equal?](http://stackoverflow.com/questions/9508518)`
+ - `[Round up from 0.5](https://stackoverflow.com/questions/12688717/)`
 
 ### Dates:  
  - `[Date difference in weeks, months, quarters, and years](http://stackoverflow.com/questions/14454476)`
