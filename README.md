@@ -36,8 +36,9 @@
  - `[Group by distinct count](https://stackoverflow.com/questions/12840294)`
  - `[Group by top_n](http://stackoverflow.com/questions/27766054)`
 
-### %functions%
+### RTFM
  - `[What do the %op% operators in mean in R? for example “%in%”](https://stackoverflow.com/q/12730629)`
+ - `[Order of operator precedence](https://stackoverflow.com/q/24095238)`
  
 ### Reshape:  
  - `[Reshape data from long to wide format](http://stackoverflow.com/questions/5890584)`   
