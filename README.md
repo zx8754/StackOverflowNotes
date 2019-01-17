@@ -1,5 +1,12 @@
 # StackOverflowNotes
 
+### About
+> This is all documented in TFM. Those who WTFM don't want to have to WTFM again on the mailing list. RTFM.    
+(Barry Rowlingson, R-help, October 2003)
+
+To rephrase above quote for [StackOverflow [R]](https://stackoverflow.com/questions/tagged/r):
+Most of questions have been asked before. Those who answer them don't want to answer them again and again. Use the links.
+
 ### Comments
  - `[How to make a great R reproducible example?](http://stackoverflow.com/questions/5963269)`
  - For questions that are not `[on-topic](http://stackoverflow.com/help/on-topic)`, you might want to try in the `[R-Public chatroom](http://chat.stackoverflow.com/rooms/25312/r-public)`.
@@ -20,11 +27,11 @@
  - `[Error: could not find function … in R](http://stackoverflow.com/questions/7027288)`
  - `[Syntax errors: mismatch {, if else, etc.](https://stackoverflow.com/questions/25889234)`
 
-### Joins:  
+### Joins  
  - `[How to join (merge) data frames (inner, outer, left, right)?](http://stackoverflow.com/questions/1299871)`
  - `[roll join with start/end window](http://stackoverflow.com/questions/24480031)`
 
-### Grouping functions:   
+### Grouping functions   
  - `[apply family, by, aggregate](http://stackoverflow.com/questions/3505701)`
  - `[Group by sum](http://stackoverflow.com/questions/1660124)`
  - `[Group by paste](http://stackoverflow.com/questions/15933958)`
@@ -40,18 +47,18 @@
  - `[What do the %op% operators in mean in R? for example “%in%”](https://stackoverflow.com/q/12730629)`
  - `[Order of operator precedence](https://stackoverflow.com/q/24095238)`
  
-### Reshape:  
+### Reshape  
  - `[Reshape data from long to wide format](http://stackoverflow.com/questions/5890584)`   
  - `[Reshape data from wide to long format](http://stackoverflow.com/questions/2185252)`
 
 ### Sort/Order
  - `[Sort a dataframe by column(s)?](http://stackoverflow.com/questions/1296646)`   
 
-### Floating points:   
+### Floating points   
  - `[Why are these numbers not equal?](http://stackoverflow.com/questions/9508518)`
  - `[Round up from 0.5](https://stackoverflow.com/questions/12688717/)`
 
-### Dates:  
+### Dates  
  - `[Date difference in weeks, months, quarters, and years](http://stackoverflow.com/questions/14454476)`
 
 ### Regex:
