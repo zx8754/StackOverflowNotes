@@ -8,6 +8,8 @@ To rephrase above quote for [StackOverflow [R]](https://stackoverflow.com/questi
 Most of questions have been asked before. Those who answer them don't want to answer them again and again. Use the links.
 
 ### Comments
+
+ - `[Jon Skeet: StackOverflow Question Checklist](https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/)`
  - `[How to make a great R reproducible example?](http://stackoverflow.com/questions/5963269)`
  - For questions that are not `[on-topic](http://stackoverflow.com/help/on-topic)`, you might want to try in the `[R-Public chatroom](http://chat.stackoverflow.com/rooms/25312/r-public)`.
  - `[How to make a Shiny app reproducible example?](https://stackoverflow.com/questions/48343080)`
