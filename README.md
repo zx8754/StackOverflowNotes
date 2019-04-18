@@ -46,6 +46,7 @@ Most of questions have been asked before. Those who answer them don't want to an
  - `[Group by top_n](http://stackoverflow.com/questions/27766054)`
 
 ### RTFM
+ - All the posts with r-faq tag: https://stackoverflow.com/questions/tagged/r-faq
  - `[What do the %op% operators in mean in R? for example “%in%”](https://stackoverflow.com/q/12730629)`
  - `[Order of operator precedence](https://stackoverflow.com/q/24095238)`
  
